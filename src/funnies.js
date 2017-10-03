@@ -209,6 +209,6 @@ export default [
   "Shovelling coal into the server",
   "Is this Interner Explorer?",
   "Playing tetris with the pixels...",
-  "...mining bitcoins... ",
+  "...mining bitcoins...",
   "Never gonna give you up, never gonna let you go...",
 ];

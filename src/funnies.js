@@ -61,7 +61,7 @@ export default [
   "Computing chance of success",
   "I'm sorry Dave, I can't do that.",
   "Looking for exact change",
-  "All your web browser are belong to us",
+  "All your web browser's belong to us",
   "All I really need is a kilobit.",
   "I feel like im supposed to be loading something. . .",
   "What do you call 8 Hobbits? A Hobbyte.",
@@ -207,4 +207,8 @@ export default [
   "Some things man was never meant to know. For everything else, there's Google.",
   "Unix is user-friendly. It's just very selective about who its friends are.",
   "Shovelling coal into the server",
+  "Is this Interner Explorer?",
+  "Playing tetris with the pixels...",
+  "...mining bitcoins... ",
+  "Never gonna give you up, never gonna let you go...",
 ];
